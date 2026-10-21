@@ -3,11 +3,19 @@
     {
       "version": "5.1.0.5",
       "versionText": "5.1.0.5",
-      "notes": "重构更新模块+修复画笔丢失+长截屏/贴纸选中态/跨页吸附/设置页三页",
+      "notes": "重构更新模块+修复画笔丢失+长截屏/贴纸选中态/跨页吸附/设置页三页/双仓分流更新架构",
       "date": "2026-10-21",
-      "download": "",
-      "portableDownload": "",
-      "md5": ""
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.5/banban_5.1.0.5_desktop.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.5/banban_5.1.0.5_portable.zip",
+      "md5": "391f2b82ed779f3295976a4c7d83599a"
+    },
+    {
+      "version": "5.0.3.3",
+      "versionText": "5.0.3.3",
+      "notes": "保底稳定版（缩略图懒加载+运行日志缓冲）",
+      "date": "2026-10-15",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.3.3/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.3.3_%E6%A1%8C%E9%9D%A2%E5%AE%89%E8%A3%85%E7%89%88.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.3.3/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.0.3.3_%E4%BE%BF%E6%90%BA%E7%89%88.zip"
     }
   ]
 }
