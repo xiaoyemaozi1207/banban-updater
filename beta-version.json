@@ -3,11 +3,44 @@
     {
       "version": "5.1.0.5",
       "versionText": "5.1.0.5 (Beta)",
-      "notes": "长截屏/贴纸选中态/跨页吸附/设置页三页",
+      "notes": "长截屏/贴纸选中态/跨页吸附/设置页三页/双仓分流更新架构",
       "date": "2026-10-21",
-      "download": "",
-      "portableDownload": "",
-      "md5": ""
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.5/banban_5.1.0.5_desktop.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.5/banban_5.1.0.5_portable.zip",
+      "md5": "391f2b82ed779f3295976a4c7d83599a"
+    },
+    {
+      "version": "5.1.0.4",
+      "versionText": "5.1.0.4 (Beta)",
+      "notes": "修复侧边栏截断/多版本双下载/双指右滑误触/云端老版本兼容",
+      "date": "2026-10-19",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.4/banban_5.1.0.4_desktop.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.4/banban_5.1.0.4_portable.zip",
+      "md5": "355caa9a9dee139fdf1f4f744f9073a0"
+    },
+    {
+      "version": "5.1.0.3",
+      "versionText": "5.1.0.3 (Beta)",
+      "notes": "修复画笔渲染致命Bug+更新模块重构",
+      "date": "2026-10-18",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.3/banban_5.1.0.3_desktop.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.3/banban_5.1.0.3_portable.zip"
+    },
+    {
+      "version": "5.1.0.2",
+      "versionText": "5.1.0.2 (Beta)",
+      "notes": "更新模块HttpClient流式+进度条+MD5校验",
+      "date": "2026-10-18",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.2/banban_5.1.0.2_desktop.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.2/banban_5.1.0.2_portable.zip"
+    },
+    {
+      "version": "5.1.0.1",
+      "versionText": "5.1.0.1 (Beta)",
+      "notes": "多版本更新通道+跨页贴纸+双指右滑撤销",
+      "date": "2026-10-17",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.1/banban_5.1.0.1_desktop.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.0.1/banban_5.1.0.1_portable.zip"
     }
   ]
 }
