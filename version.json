@@ -3,11 +3,11 @@
     {
       "version": "5.1.1",
       "versionText": "5.1.1 正式版",
-      "notes": "贴纸选中态+长截屏+跨页吸附+设置页三页+双仓分流更新架构",
-      "date": "2026-10-21",
+      "notes": "长截屏精确裁剪+删除双指右滑撤销+贴纸DOM渲染防白边裁切+贴纸拖动全局兜底",
+      "date": "2026-10-22",
       "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.1/banban_5.1.1_desktop.zip",
       "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.1/banban_5.1.1_portable.zip",
-      "md5": "457ef4baa173b411776ccb5a1d8640d2"
+      "md5": "8cba1133fb572a95fb8c3c32a7e46e41"
     },
     {
       "version": "5.1.0.5",
