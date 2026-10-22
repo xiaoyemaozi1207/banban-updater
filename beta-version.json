@@ -1,6 +1,15 @@
 {
   "versions": [
     {
+      "version": "5.1.1.2",
+      "versionText": "5.1.1.2 (Beta)",
+      "notes": "新增剪贴板拼图（侧边栏拼截框选缓存，最多3张，一键纵向拼合）；侧边栏重排去掉重复长截入口；旧长截屏双轨保留",
+      "date": "2026-10-23",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.1.2/banban_5.1.1.2_desktop.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.1.2/banban_5.1.1.2_portable.zip",
+      "md5": "32a14bee0abe5144e809eb15c4e77d68"
+    },
+    {
       "version": "5.1.1.1",
       "versionText": "5.1.1.1 (Beta)",
       "notes": "长截屏精确裁剪+删除双指右滑撤销+贴纸DOM渲染防白边裁切+贴纸拖动全局兜底",
