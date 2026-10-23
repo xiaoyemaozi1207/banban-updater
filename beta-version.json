@@ -1,6 +1,15 @@
 {
   "versions": [
     {
+      "version": "5.1.1.3",
+      "versionText": "5.1.1.3 (Beta)",
+      "notes": "修复触摸缩放贴纸失效（手指拖四角可缩放）；侧边栏新增笔/移动切换；白板旁加截图(长图)；清除橡皮归一行；旧长截屏双轨保留",
+      "date": "2026-10-23",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.1.3/banban_5.1.1.3_desktop.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.1.3/banban_5.1.1.3_portable.zip",
+      "md5": "65e1e8c4944bd229837b40cce95fd8d7"
+    },
+    {
       "version": "5.1.1.2",
       "versionText": "5.1.1.2 (Beta)",
       "notes": "新增剪贴板拼图（侧边栏拼截框选缓存，最多3张，一键纵向拼合）；侧边栏重排去掉重复长截入口；旧长截屏双轨保留",
