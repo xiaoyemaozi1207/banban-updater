@@ -1,6 +1,15 @@
 {
   "versions": [
     {
+      "version": "5.1.1.4",
+      "versionText": "5.1.1.4 (Beta)",
+      "notes": "贴纸存储升级IndexedDB（大贴纸剥离不占localStorage，单页上限8张，ls回退3张）；触摸拖四角缩放修复；存储满提示带页码+设置页可清空本页/全部；旧贴纸两段式幂等迁移+srcBroken红框移除；引用计数+孤儿扫描；长截屏贴纸完整性检查",
+      "date": "2026-10-24",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.1.4/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.1.1.4_%E6%A1%8C%E9%9D%A2%E5%AE%89%E8%A3%85%E7%89%88.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.1.4/%E7%8F%AD%E7%8F%AD%E9%80%9APDF%E6%89%B9%E6%B3%A8%E5%B7%A5%E5%85%B75.1.1.4_%E4%BE%BF%E6%90%BA%E7%89%88.zip",
+      "md5": "4447c6e5b21979c8e208710701c097be"
+    },
+    {
       "version": "5.1.1.3",
       "versionText": "5.1.1.3 (Beta)",
       "notes": "修复触摸缩放贴纸失效（手指拖四角可缩放）；侧边栏新增笔/移动切换；白板旁加截图(长图)；清除橡皮归一行；旧长截屏双轨保留",
