@@ -1,6 +1,16 @@
 {
   "versions": [
     {
+      "version": "5.1.1.5",
+      "versionText": "5.1.1.5 (Beta)",
+      "notes": "删除旧框选截图和拼截代码，只保留长截屏（截图(长图)），代码精简瘦身；5.1.1.4 贴纸拖动修复（剥离不再删src，点本体可拖远）；存储层17条修正（strip落盘replacer/迁移事务性/引用计数/srcBroken红框）；便携版DLL恢复1.0.2210.55",
+      "date": "2026-10-24",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.1.5/banban_5.1.1.5_desktop.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.1.5/banban_5.1.1.5_portable.zip",
+      "md5": "c323bf0b351e6910642d6f827a1e931a",
+      "size": 1423173
+    },
+    {
       "version": "5.1.1.4",
       "versionText": "5.1.1.4 (Beta)",
       "notes": "贴纸存储升级IndexedDB（大贴纸剥离不占localStorage，单页上限8张，ls回退3张）；触摸拖四角缩放修复；存储满提示带页码+设置页可清空本页/全部；旧贴纸两段式幂等迁移+srcBroken红框移除；引用计数+孤儿扫描；长截屏贴纸完整性检查",
