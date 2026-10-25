@@ -1,6 +1,16 @@
 {
   "versions": [
     {
+      "version": "5.1.1.6",
+      "versionText": "5.1.1.6 (Beta)",
+      "notes": "修复贴纸删除后上限不降（隐形贴纸可见化+回填重试，连续3次读不回标红框可删）；新增选中贴纸右上角删除按钮（防误删：移动超10px不删+屏边自动翻边）",
+      "date": "2026-10-26",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.1.6/banban_5.1.1.6_desktop.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.1.6/banban_5.1.1.6_portable.zip",
+      "md5": "6f82cc5ba972d004f0287450ea7e4b0e",
+      "size": 1480490
+    },
+    {
       "version": "5.1.1.5",
       "versionText": "5.1.1.5 (Beta)",
       "notes": "删除旧框选截图和拼截代码，只保留长截屏（截图(长图)），代码精简瘦身；5.1.1.4 贴纸拖动修复（剥离不再删src，点本体可拖远）；存储层17条修正（strip落盘replacer/迁移事务性/引用计数/srcBroken红框）；便携版DLL恢复1.0.2210.55",
