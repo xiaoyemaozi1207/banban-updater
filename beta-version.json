@@ -1,6 +1,16 @@
 {
   "versions": [
     {
+      "version": "5.1.1.7",
+      "versionText": "5.1.1.7 (Beta)",
+      "notes": "新增存储诊断按钮（设置→关于→导出存储诊断，排查删贴纸仍报存储满）；新增 diagStorage 临时诊断函数",
+      "date": "2026-10-26",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.1.7/banban_5.1.1.7_desktop.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.1.7/banban_5.1.1.7_portable.zip",
+      "md5": "032930461f1d65063e402186121f7679",
+      "size": 1480830
+    },
+    {
       "version": "5.1.1.6",
       "versionText": "5.1.1.6 (Beta)",
       "notes": "修复贴纸删除后上限不降（隐形贴纸可见化+回填重试，连续3次读不回标红框可删）；新增选中贴纸右上角删除按钮（防误删：移动超10px不删+屏边自动翻边）",
