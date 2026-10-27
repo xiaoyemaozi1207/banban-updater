@@ -1,14 +1,24 @@
 {
   "versions": [
     {
+      "version": "5.1.1.8",
+      "versionText": "5.1.1.8 (Beta)",
+      "notes": "新增清理旧文档笔记（设置→关于：30天以上整条删/30天内只删贴图保字迹/时间未知需手动选，可先备份、可导入恢复，当前课件绝不删）；修复存储空间已满（旧课件笔记占满配额导致当前笔记无法保存，清理后立即保存）；修复长截屏笔迹变粗（按写字缩放还原）；修复长截屏白边贴纸/笔迹被裁（有白边内容时扩展截取）；修复更新提示重复弹出（同版本只提示一次）；修复存储诊断占用率显示错误",
+      "date": "2026-10-28",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.1.8/banban_5.1.1.8_desktop.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.1.8/banban_5.1.1.8_portable.zip",
+      "md5": "65a2831d9332d893cc1e71b7315d1c70",
+      "size": 1498244
+    },
+    {
       "version": "5.1.1.7",
       "versionText": "5.1.1.7 (Beta)",
       "notes": "新增存储诊断按钮（设置→关于→导出存储诊断，排查删贴纸仍报存储满）；新增 diagStorage 临时诊断函数",
       "date": "2026-10-26",
       "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.1.7/banban_5.1.1.7_desktop.zip",
       "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.1.7/banban_5.1.1.7_portable.zip",
-      "md5": "032930461f1d65063e402186121f7679",
-      "size": 1480830
+      "md5": "2fdcf020050fe13e2e24b768e4b736a2",
+      "size": 1483678
     },
     {
       "version": "5.1.1.6",
