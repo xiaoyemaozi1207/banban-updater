@@ -1,6 +1,16 @@
 {
   "versions": [
     {
+      "version": "5.1.1.9",
+      "versionText": "5.1.1.9 (Beta)",
+      "notes": "修复更新提示每次启动都弹（同版本只提示一次，10秒后自动隐藏）；修复贴纸左右拖出白纸区域不弹回（松手自动弹回，白纸边缘可停靠衔接）；设置页重构为4个页签（书写与画笔/手势与擦除/界面与页面/数据与关于），各项设置更好找",
+      "date": "2026-10-29",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.1.9/banban_5.1.1.9_desktop.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.1.9/banban_5.1.1.9_portable.zip",
+      "md5": "b28ccd6b7eac3e47e30c728078f8e573",
+      "size": 1499712
+    },
+    {
       "version": "5.1.1.8",
       "versionText": "5.1.1.8 (Beta)",
       "notes": "新增清理旧文档笔记（设置→关于：30天以上整条删/30天内只删贴图保字迹/时间未知需手动选，可先备份、可导入恢复，当前课件绝不删）；修复存储空间已满（旧课件笔记占满配额导致当前笔记无法保存，清理后立即保存）；修复长截屏笔迹变粗（按写字缩放还原）；修复长截屏白边贴纸/笔迹被裁（有白边内容时扩展截取）；修复更新提示重复弹出（同版本只提示一次）；修复存储诊断占用率显示错误",
