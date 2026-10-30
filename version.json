@@ -1,6 +1,16 @@
 {
   "versions": [
     {
+      "version": "5.1.2",
+      "versionText": "5.1.2 正式版",
+      "notes": "正式版发布（Beta 转正）；新增清理旧文档笔记（30天分层，只删贴图保字迹）；修复存储空间已满/长截屏笔迹变粗/白边内容被裁/更新提示重复弹出/存储诊断占用率；设置页重构为4个页签；贴纸越界自动弹回；更新提示与存储诊断改纯文本渲染",
+      "date": "2026-10-30",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.2/banban_5.1.2_desktop.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.2/banban_5.1.2_portable.zip",
+      "md5": "6e0e5a12c9383133dfa62bdc04dcee47",
+      "size": 1500406
+    },
+    {
       "version": "5.1.1",
       "versionText": "5.1.1 正式版",
       "notes": "长截屏精确裁剪+删除双指右滑撤销+贴纸DOM渲染防白边裁切+贴纸拖动全局兜底",
