@@ -1,10 +1,24 @@
 {
-  "version": "5.1.8.2",
-  "versionText": "5.1.8.2 正式版",
-  "date": "2026-11-05",
-  "notes": "自动更新改为后台静默下载+关闭时自动替换，不再打断上课；两侧工具栏移动改名抓取；网络异常明确提示，不再误报已是最新",
-  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.8.2/banban_5.1.8.2_desktop.zip",
-  "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.8.2/banban_5.1.8.2_portable.zip",
-  "md5": "a4a791e5c0c93d895686a347b3c6e7a2",
-  "size": 1528634
+  "versions": [
+    {
+      "version": "5.1.8.3",
+      "versionText": "5.1.8.3 正式版",
+      "date": "2026-11-06",
+      "notes": "前端拆分为 7 个模块；笔记持久化改为 C# 文件系统异步落盘；关窗握手防丢最后一笔；修复 fileRoot/reqId/data 解码/写入 path 四处协议问题",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.8.3/banban_5.1.8.3_desktop.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.8.3/banban_5.1.8.3_portable.zip",
+      "md5": "ed74c7212d704f394abec93c19fb7b55",
+      "size": 2102256
+    },
+    {
+      "version": "5.1.8.2",
+      "versionText": "5.1.8.2 正式版",
+      "date": "2026-11-05",
+      "notes": "自动更新改为后台静默下载+关闭时自动替换，不再打断上课；两侧工具栏移动改名抓取；网络异常明确提示，不再误报已是最新",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.8.2/banban_5.1.8.2_desktop.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.8.2/banban_5.1.8.2_portable.zip",
+      "md5": "a4a791e5c0c93d895686a347b3c6e7a2",
+      "size": 1528634
+    }
+  ]
 }
