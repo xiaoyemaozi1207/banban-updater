@@ -1,10 +1,10 @@
 {
-  "version": "5.1.8.2",
-  "versionText": "5.1.8.2 正式版",
-  "date": "2026-11-05",
-  "notes": "自动更新改为后台静默下载+关闭时自动替换，不再打断上课；两侧工具栏移动改名抓取；网络异常明确提示，不再误报已是最新",
-  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.8.2/banban_5.1.8.2_desktop.zip",
-  "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.8.2/banban_5.1.8.2_portable.zip",
-  "md5": "a4a791e5c0c93d895686a347b3c6e7a2",
-  "size": 1528634
+  "version": "5.1.8.4",
+  "versionText": "5.1.8.4 Beta",
+  "date": "2026-11-07",
+  "notes": "修复 8 个真机症状：双指无法缩放、pan 只能移动不能缩放、截屏无反应、buildThumbs 未定义、导出 window.xxx 非函数、PDF 提示打开失败但已跳转、贴纸统计误判、关窗最后一笔丢失；补开文档状态清理与 flush_done 握手回执。",
+  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.8.4/banban_5.1.8.4_desktop.zip",
+  "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.8.4/banban_5.1.8.4_portable.zip",
+  "md5": "6f05916ea97b7f4a14efb8183c00439e",
+  "size": 3849265
 }
