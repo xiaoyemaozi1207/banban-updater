@@ -1,10 +1,10 @@
 {
-  "version": "5.1.8.9",
-  "versionText": "5.1.8.9 Beta（静默下载验证假版本）",
+  "version": "5.1.8.5",
+  "versionText": "5.1.8.5 Beta",
   "date": "2026-11-07",
-  "notes": "仅用于验证 5.1.8.5 静默下载/关闭替换链路，不含新功能；验证完请继续使用 5.1.8.5。",
-  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.8.9/banban_5.1.8.9_desktop.zip",
-  "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.8.9/banban_5.1.8.9_portable.zip",
-  "md5": "604671b012da7a7db1f1c7bcd1c62594",
-  "size": 3872305
+  "notes": "5.1.8.5 封板：Windows 应用列表登记+卸载清键；.bak 双写与损坏恢复提示；inkScale 实时化修白板画布撑大；4K 显存钳制（长边≤8192、面积≤3200万）；pointermove rAF 合并刷新；开发者菜单“模拟低端机卡顿”（15ms 空转+1.5倍画布）。",
+  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.8.5/banban_5.1.8.5_desktop.zip",
+  "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.8.5/banban_5.1.8.5_portable.zip",
+  "md5": "5bf049e012062232d4b82f23a5fb6c2c",
+  "size": 3871597
 }
