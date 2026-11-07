@@ -1,10 +1,10 @@
 {
-  "version": "5.1.8.4",
-  "versionText": "5.1.8.4 Beta",
+  "version": "5.1.8.5",
+  "versionText": "5.1.8.5 Beta",
   "date": "2026-11-07",
-  "notes": "修复 8 个真机症状：双指无法缩放、pan 只能移动不能缩放、截屏无反应、buildThumbs 未定义、导出 window.xxx 非函数、PDF 提示打开失败但已跳转、贴纸统计误判、关窗最后一笔丢失；补开文档状态清理与 flush_done 握手回执。",
-  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.8.4/banban_5.1.8.4_desktop.zip",
-  "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.8.4/banban_5.1.8.4_portable.zip",
-  "md5": "6f05916ea97b7f4a14efb8183c00439e",
-  "size": 3849265
+  "notes": "5.1.8.5 封板：Windows 应用列表登记+卸载清键；.bak 双写与损坏恢复提示；inkScale 实时化修白板画布撑大；4K 显存钳制（长边≤8192、面积≤3200万）；pointermove rAF 合并刷新；开发者菜单“模拟低端机卡顿”（15ms 空转+1.5倍画布）。",
+  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.8.5/banban_5.1.8.5_desktop.zip",
+  "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.8.5/banban_5.1.8.5_portable.zip",
+  "md5": "5bf049e012062232d4b82f23a5fb6c2c",
+  "size": 3871597
 }
