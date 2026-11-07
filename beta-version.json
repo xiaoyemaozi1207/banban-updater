@@ -1,10 +1,10 @@
 {
   "version": "5.1.8.5",
   "versionText": "5.1.8.5 Beta",
-  "date": "2026-11-07",
-  "notes": "5.1.8.5 封板：Windows 应用列表登记+卸载清键；.bak 双写与损坏恢复提示；inkScale 实时化修白板画布撑大；4K 显存钳制（长边≤8192、面积≤3200万）；pointermove rAF 合并刷新；开发者菜单“模拟低端机卡顿”（15ms 空转+1.5倍画布）。",
+  "date": "2026-11-08",
+  "notes": "5.1.8.5 覆盖更新：彻底关闭静默自动更新与关闭时自动替换，只保留手动“检查更新”；含 Windows 应用列表登记+卸载清键、.bak 双写与损坏恢复、inkScale 实时化、4K 显存钳制、pointermove rAF 合并、开发者菜单“模拟低端机卡顿”。",
   "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.8.5/banban_5.1.8.5_desktop.zip",
   "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.8.5/banban_5.1.8.5_portable.zip",
-  "md5": "5bf049e012062232d4b82f23a5fb6c2c",
-  "size": 3871597
+  "md5": "06c1ef9025582d9a0d134ae0b61a71cb",
+  "size": 3873476
 }
