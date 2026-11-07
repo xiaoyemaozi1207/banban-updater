@@ -2,9 +2,9 @@
   "version": "5.1.8.5",
   "versionText": "5.1.8.5 Beta",
   "date": "2026-11-08",
-  "notes": "5.1.8.5 覆盖更新：彻底关闭静默自动更新与关闭时自动替换，只保留手动“检查更新”；含 Windows 应用列表登记+卸载清键、.bak 双写与损坏恢复、inkScale 实时化、4K 显存钳制、pointermove rAF 合并、开发者菜单“模拟低端机卡顿”。",
+  "notes": "5.1.8.5 终极补丁：修复 4K 坐标笔迹错位、rAF 吞面积擦除半径、首屏极小、白板手掌残留第一笔写不出、撤销幽灵贴纸、计算器拖出屏幕粘滞、关软件等待过短丢大笔记、更新提示死循环、U盘拔出无兜底。",
   "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.8.5/banban_5.1.8.5_desktop.zip",
   "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.8.5/banban_5.1.8.5_portable.zip",
-  "md5": "06c1ef9025582d9a0d134ae0b61a71cb",
-  "size": 3873476
+  "md5": "1afe3ca4ca4d863c6a7de9a43c602083",
+  "size": 3878144
 }
