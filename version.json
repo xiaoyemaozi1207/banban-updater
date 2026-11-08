@@ -1,6 +1,16 @@
 {
   "versions": [
     {
+      "version": "5.1.9",
+      "versionText": "5.1.9 正式版",
+      "date": "2026-11-08",
+      "notes": "5.1.9 正式版：修复首屏极小——打开文档首页渲染完成后再等 300ms 强制铺满，只首次触发；合入 4K 真实缩放、擦除直取合并事件、侧边栏重排、手掌残留第一笔、撤销幽灵贴纸、计算器 pointercancel、关窗动态等待、更新同版本 return、U 盘写失败 localStorage 兜底。",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.9/banban_5.1.9_desktop.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.1.9/banban_5.1.9_portable.zip",
+      "md5": "9c205bde342ec0d79858f73d7aecc423",
+      "size": 3879698
+    },
+    {
       "version": "5.1.8.3",
       "versionText": "5.1.8.3 正式版",
       "date": "2026-11-06",
