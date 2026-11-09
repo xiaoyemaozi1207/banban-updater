@@ -2,9 +2,9 @@
   "version": "5.2.0.1",
   "versionText": "5.2.0.1 Beta",
   "date": "2026-11-09",
-  "notes": "5.2.0.1 Beta：新增托盘保活、双源紧急通知、书写保护、已读身份隔离、防多开唤醒、托盘安全休眠；本轮补丁：失焦强制收笔、关机分支去阻塞、>800MB 跳过内存回收、AbandonedMutex 接管、_pushLock 防双推、齿轮 200ms 复位、切老师 _pendingQueue 事务隔离、通知横幅改绝对定位不改画布高度。",
+  "notes": "5.2.0.1 Beta：新增托盘保活、双源紧急通知、书写保护、已读身份隔离、防多开唤醒、托盘安全休眠；启动加速：单实例锁前移到 WinForms 初始化前，二次双击不再加载 WinForms，直接广播唤醒旧实例并退出；本轮补丁：失焦强制收笔、关机分支去阻塞、>800MB 跳过内存回收、AbandonedMutex 接管、_pushLock 防双推、齿轮 200ms 复位、切老师 _pendingQueue 事务隔离、通知横幅改绝对定位不改画布高度。",
   "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.2.0.1/banban_5.2.0.1_desktop.zip",
   "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.2.0.1/banban_5.2.0.1_portable.zip",
-  "md5": "21013029b3b496160fbb736be71f6fcd",
-  "size": 3920211
+  "md5": "5dc5760ed11f34108fa80687c6beb1a4",
+  "size": 3922693
 }
