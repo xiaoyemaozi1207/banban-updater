@@ -2,11 +2,11 @@
   "version": "5.2.0.2",
   "versionText": "5.2.0.2 Beta",
   "date": "2026-11-10",
-  "notes": "5.2.0.2 Beta：关窗防丢数据（前端 16MB 阻断；C# 拦截关闭后按队列 2/5/10 秒动态等待，硬等待 10 秒）；落盘完成后销毁主窗体并 Dispose WebView2，ApplicationContext + 隐藏窗口守夜；原生 GDI 闪屏 + 300ms HTML 开场；通知大卡片 clamp(640px,28vw,860px) 且不拦截板书；seen/snooze/ack 三态 + 右下角胶囊。",
+  "notes": "5.2.0.2 Beta：关窗防丢数据（前端 16MB 阻断；C# 拦截关闭后按队列 2/5/10 秒动态等待，硬等待 10 秒）；落盘完成后销毁主窗体并 Dispose WebView2，ApplicationContext + 隐藏窗口守夜；原生 GDI 闪屏 + 300ms HTML 开场；通知大卡片 clamp(640px,28vw,860px) 且不拦截板书；seen/snooze/ack 三态 + 右下角胶囊。补修：无课件点 × 不再误阻断；更新确认“否”真正退出；守夜后二次启动抢锁成功。",
   "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.2.0.2/banban_5.2.0.2_desktop.zip",
   "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.2.0.2/banban_5.2.0.2_portable.zip",
-  "md5": "4004bee21b28e5d50f0cd3a57a18b37f",
-  "size": 3934222,
-  "portableMd5": "0e77d97ecf9ca6f932ad2ad3ac076816",
-  "portableSize": 1587862
+  "md5": "c7325eacc147cbdad51ca95aaecd3efe",
+  "size": 3935193,
+  "portableMd5": "7d150024dd20fda4e8b124443ca0c71a",
+  "portableSize": 1588446
 }
