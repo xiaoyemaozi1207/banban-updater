@@ -1,10 +1,12 @@
 {
-  "version": "5.2.0.1",
-  "versionText": "5.2.0.1 Beta",
-  "date": "2026-11-09",
-  "notes": "5.2.0.1 Beta：新增托盘保活、双源紧急通知、书写保护、已读身份隔离、防多开唤醒、托盘安全休眠；启动加速：单实例锁前移到 WinForms 初始化前，二次双击不再加载 WinForms，直接广播唤醒旧实例并退出；本轮补丁：失焦强制收笔、关机分支去阻塞、>800MB 跳过内存回收、AbandonedMutex 接管、_pushLock 防双推、齿轮 200ms 复位、切老师 _pendingQueue 事务隔离、通知横幅改绝对定位不改画布高度。",
-  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.2.0.1/banban_5.2.0.1_desktop.zip",
-  "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.2.0.1/banban_5.2.0.1_portable.zip",
-  "md5": "e87fe0aebf6f9b0f377250075ca44b89",
-  "size": 3918141
+  "version": "5.2.0.2",
+  "versionText": "5.2.0.2 Beta",
+  "date": "2026-11-10",
+  "notes": "5.2.0.2 Beta：关窗防丢数据（前端 16MB 阻断；C# 拦截关闭后按队列 2/5/10 秒动态等待，硬等待 10 秒）；落盘完成后销毁主窗体并 Dispose WebView2，ApplicationContext + 隐藏窗口守夜；原生 GDI 闪屏 + 300ms HTML 开场；通知大卡片 clamp(640px,28vw,860px) 且不拦截板书；seen/snooze/ack 三态 + 右下角胶囊。",
+  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.2.0.2/banban_5.2.0.2_desktop.zip",
+  "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.2.0.2/banban_5.2.0.2_portable.zip",
+  "md5": "4004bee21b28e5d50f0cd3a57a18b37f",
+  "size": 3934222,
+  "portableMd5": "0e77d97ecf9ca6f932ad2ad3ac076816",
+  "portableSize": 1587862
 }
