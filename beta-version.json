@@ -1,12 +1,12 @@
 {
-  "version": "5.2.0.2",
-  "versionText": "5.2.0.2 Beta",
-  "date": "2026-11-10",
-  "notes": "5.2.0.2 Beta：关窗防丢数据（前端 16MB 阻断；C# 拦截关闭后按队列 2/5/10 秒动态等待，硬等待 10 秒）；落盘完成后销毁主窗体并 Dispose WebView2，ApplicationContext + 隐藏窗口守夜；原生 GDI 闪屏 + 300ms HTML 开场；通知大卡片 clamp(640px,28vw,860px) 且不拦截板书；seen/snooze/ack 三态 + 右下角胶囊。补修：无课件点 × 不再误阻断；更新确认“否”真正退出；守夜后二次启动抢锁成功。",
-  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.2.0.2/banban_5.2.0.2_desktop.zip",
-  "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.2.0.2/banban_5.2.0.2_portable.zip",
-  "md5": "c7325eacc147cbdad51ca95aaecd3efe",
-  "size": 3935193,
-  "portableMd5": "7d150024dd20fda4e8b124443ca0c71a",
-  "portableSize": 1588446
+  "version": "5.3.0.1",
+  "versionText": "5.3.0.1 Beta",
+  "date": "2026-11-11",
+  "notes": "5.3.0.1 Beta：同 exe 静默守夜（--notice-worker --once 只拉 notice.json 写 data/notice/current.json，主程序断网、启动只读一次）；彻底删四指擦除/双指聚拢，三指以上统一平移，面积擦除固定 12/2.5；废弃托盘/隐藏/休眠，点 X 先落盘再退出；强制迁移旧 pdfAnnotator_v12_* localStorage 到文件模式，失败写 migration.log+弹窗，成功保留备份；迁移期间 loadNotes/saveNotes 排队防半截读写。保留长截屏精确裁剪、IDB 贴纸、Base64 传输。",
+  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.3.0.1/banban_5.3.0.1_desktop.zip",
+  "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.3.0.1/banban_5.3.0.1_portable.zip",
+  "md5": "8dd5c92296fae382ee1585b9c6bb0132",
+  "size": 3391521,
+  "portableMd5": "cdfa7796240c215422fb5a07eb1ca26d",
+  "portableSize": 1589172
 }
