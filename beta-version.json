@@ -1,8 +1,10 @@
 {
-  "version": "5.0.2.1",
-  "versionText": "5.0.2.1 (Beta)",
+  "version": "5.3.0.1",
+  "versionText": "5.3.0.1 Beta",
+  "date": "2026-11-11",
   "notes": "5.3.0.1 Beta（补丁轮）：迁移旧笔记期间禁止打开课件；通知大卡片遇迁移/开场动画/欢迎弹窗自动排队，迁移结束 2 秒后再出；点 ✕ 先弹全屏‘正在安全保存’遮罩，flush_done 后撤；迁移时屏中显示不挡点击的小卡片，完成弹绿色 Toast；欢迎弹窗改为‘5.3.0.1 重构版！’；启动通知严格等开场动画结束、抬笔后才弹。原有同 exe 静默守夜、面积擦除 12/2.5、点 X 落盘退出、长截屏精确裁剪、IDB 贴纸、Base64 传输全部保留。",
-  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.0.2.1/班班通PDF批注工具5.0.2.1_桌面安装版.zip",
+  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.3.0.1/banban_5.3.0.1_desktop.zip",
+  "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.3.0.1/banban_5.3.0.1_portable.zip",
   "md5": "286c4ef1b5fba8a29f1c1d7336a300c8",
   "size": 3396411,
   "portableMd5": "c9f561ac2cf927948912280b19ca3e95",
