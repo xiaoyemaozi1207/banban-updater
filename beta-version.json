@@ -5,9 +5,9 @@
   "notes": "5.3.0.2 Beta（体验修复轮）：启动动画原样恢复 5.1.8.3（2.3 秒纸页+横线+墨迹+红勾+底部进度条+跳过按钮），彻底删除 5.2.0.2 的原生 GDI SplashForm，WebView2 初始化改深色底防白屏；开发者页恢复多版本列表；桌面只创建一个快捷方式；点更新显示等待圈+百分比+慢网/失败反馈；点橡皮时颜色按钮同步熄灭。通知链路本轮不调整。",
   "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.3.0.2/banban_5.3.0.2_desktop.zip",
   "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.3.0.2/banban_5.3.0.2_portable.zip",
-  "md5": "86afc0a772b1e641245ff7bf0e4bce64",
+  "md5": "33e31ce9c0e1eb96538af54d7a8c37af",
   "size": 3361572,
-  "portableMd5": "321236d7aa69c15e2a11c59cb6dac047",
+  "portableMd5": "f29e19983bb6d80c8862cb8bdb520eb5",
   "portableSize": 1560953,
   "versions": [
     {
@@ -17,9 +17,9 @@
       "notes": "5.3.0.2 Beta（体验修复轮）：启动动画原样恢复 5.1.8.3（2.3 秒纸页+横线+墨迹+红勾+底部进度条+跳过按钮），彻底删除 5.2.0.2 的原生 GDI SplashForm，WebView2 初始化改深色底防白屏；开发者页恢复多版本列表；桌面只创建一个快捷方式；点更新显示等待圈+百分比+慢网/失败反馈；点橡皮时颜色按钮同步熄灭。通知链路本轮不调整。",
       "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.3.0.2/banban_5.3.0.2_desktop.zip",
       "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.3.0.2/banban_5.3.0.2_portable.zip",
-      "md5": "86afc0a772b1e641245ff7bf0e4bce64",
+      "md5": "33e31ce9c0e1eb96538af54d7a8c37af",
       "size": 3361572,
-      "portableMd5": "321236d7aa69c15e2a11c59cb6dac047",
+      "portableMd5": "f29e19983bb6d80c8862cb8bdb520eb5",
       "portableSize": 1560953
     },
     {
