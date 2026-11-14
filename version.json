@@ -1,6 +1,18 @@
 {
   "versions": [
     {
+      "version": "5.3.1",
+      "versionText": "5.3.1 正式版",
+      "date": "2026-11-14",
+      "notes": "5.3.1 正式版：5.3.0.4 Beta 转正，不新增功能。保留 5.3.0.4 状态机统一轮全部修复：抓取/移动、橡皮时颜色按钮保持正常彩色但取消选中白圈；抓取/橡皮下点颜色切回画笔；侧边栏重建后白圈不回弹；修复橡皮切抓取后光标/指示圈残留。",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.3.1/banban_5.3.1_desktop.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.3.1/banban_5.3.1_portable.zip",
+      "md5": "bd5446053e58fb000cc42f780d5c9ffc",
+      "size": 3369763,
+      "portableMd5": "7d0ea099abff5bf522dc92beca4984d6",
+      "portableSize": 1571603
+    },
+    {
       "version": "5.1.9",
       "versionText": "5.1.9 正式版",
       "date": "2026-11-08",
