@@ -1,6 +1,18 @@
 {
   "versions": [
     {
+      "version": "5.3.2",
+      "versionText": "5.3.2 正式版",
+      "date": "2026-11-17",
+      "notes": "5.3.1.4 Beta 转正式版，不新增功能；保留底部截图按钮去掉(长图)的4K优化，以及旧橡皮兼容、长截屏贴纸缓存/跨页预加载/层序修正",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.3.2/banban_5.3.2_desktop.zip",
+      "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.3.2/banban_5.3.2_portable.zip",
+      "md5": "cb1ceafc27fba03e92d699592bfed201",
+      "size": 3399068,
+      "portableMd5": "a495777a36070ce47749cef3440c54e0",
+      "portableSize": 1592685
+    },
+    {
       "version": "5.3.1",
       "versionText": "5.3.1 正式版",
       "date": "2026-11-14",
@@ -42,5 +54,15 @@
       "md5": "a4a791e5c0c93d895686a347b3c6e7a2",
       "size": 1528634
     }
-  ]
+  ],
+  "version": "5.3.2",
+  "versionText": "5.3.2 正式版",
+  "date": "2026-11-17",
+  "notes": "5.3.1.4 Beta 转正式版，不新增功能；保留底部截图按钮去掉(长图)的4K优化，以及旧橡皮兼容、长截屏贴纸缓存/跨页预加载/层序修正",
+  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.3.2/banban_5.3.2_desktop.zip",
+  "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.3.2/banban_5.3.2_portable.zip",
+  "md5": "cb1ceafc27fba03e92d699592bfed201",
+  "size": 3399068,
+  "portableMd5": "a495777a36070ce47749cef3440c54e0",
+  "portableSize": 1592685
 }
