@@ -1,15 +1,27 @@
 {
-  "version": "5.3.3.6",
-  "versionText": "5.3.3.6 Beta",
+  "version": "5.3.3.7",
+  "versionText": "5.3.3.7 Beta",
   "date": "2026-11-26",
-  "notes": "5.3.3.6 Beta：新增桌面值日表（独立小窗、设置页第5页签、顶部总开关）；修复值日组按工作日循环、改组保留当天组、托盘图标常驻、托盘退出一并停小窗；同步继承5.3.3.5通知前台门禁。",
-  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.3.3.6/banban_5.3.3.6_beta_desktop.zip",
+  "notes": "5.3.3.7 Beta 最终验收修复：值日分组上限统一12人；新装默认关闭值日表并把默认占位改待填写；迁移旧5.3.3.6默认占位数据；分组保存改为C#写盘成功并回state后才关编辑器；暂停时禁用临时换组；暂停/恢复/换组后补拉小窗；小窗互斥锁等待2秒修复快速关闭再打开不显示；分组锚定先按组名+名单精确匹配；源码包移除portable.tag。",
+  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.3.3.7/banban_5.3.3.7_beta_desktop.zip",
   "portableDownload": "",
-  "md5": "a9bdeaf8dc4c8544e430ec55847c0729",
-  "size": 3475636,
+  "md5": "2baec2552a2e6ad23544bf53811356bc",
+  "size": 3471867,
   "portableMd5": "",
   "portableSize": 0,
   "versions": [
+    {
+      "version": "5.3.3.7",
+      "versionText": "5.3.3.7 Beta",
+      "date": "2026-11-26",
+      "notes": "5.3.3.7 Beta 最终验收修复：值日分组上限统一12人；新装默认关闭值日表并把默认占位改待填写；迁移旧5.3.3.6默认占位数据；分组保存改为C#写盘成功并回state后才关编辑器；暂停时禁用临时换组；暂停/恢复/换组后补拉小窗；小窗互斥锁等待2秒修复快速关闭再打开不显示；分组锚定先按组名+名单精确匹配；源码包移除portable.tag。",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.3.3.7/banban_5.3.3.7_beta_desktop.zip",
+      "portableDownload": "",
+      "md5": "2baec2552a2e6ad23544bf53811356bc",
+      "size": 3471867,
+      "portableMd5": "",
+      "portableSize": 0
+    },
     {
       "version": "5.3.3.6",
       "versionText": "5.3.3.6 Beta",
