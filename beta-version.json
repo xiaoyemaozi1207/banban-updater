@@ -5,8 +5,8 @@
   "notes": "5.3.3.6 Beta：新增桌面值日表（独立小窗、设置页第5页签、顶部总开关）；修复值日组按工作日循环、改组保留当天组、托盘图标常驻、托盘退出一并停小窗；同步继承5.3.3.5通知前台门禁。",
   "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.3.3.6/banban_5.3.3.6_beta_desktop.zip",
   "portableDownload": "",
-  "md5": "cec17d4f41a5c156a0b47a36732395a2",
-  "size": 3475230,
+  "md5": "a9bdeaf8dc4c8544e430ec55847c0729",
+  "size": 3475636,
   "portableMd5": "",
   "portableSize": 0,
   "versions": [
@@ -17,8 +17,8 @@
       "notes": "5.3.3.6 Beta：新增桌面值日表（独立小窗、设置页第5页签、顶部总开关）；修复值日组按工作日循环、改组保留当天组、托盘图标常驻、托盘退出一并停小窗；同步继承5.3.3.5通知前台门禁。",
       "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.3.3.6/banban_5.3.3.6_beta_desktop.zip",
       "portableDownload": "",
-      "md5": "cec17d4f41a5c156a0b47a36732395a2",
-      "size": 3475230,
+      "md5": "a9bdeaf8dc4c8544e430ec55847c0729",
+      "size": 3475636,
       "portableMd5": "",
       "portableSize": 0
     },
@@ -29,8 +29,8 @@
       "notes": "5.3.3.5 Beta：修复通知回执——窗口最小化/被PPT或浏览器盖住时，CloudPull 不领取指令，通知队列不投递、不补发；通知真正显示才回执“已执行”，老师点“我知道了”回“已读”。",
       "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.3.3.5/banban_5.3.3.5_beta_desktop.zip",
       "portableDownload": "",
-      "md5": "7c4e8e2e34c95411e43be688d94c8bbc",
-      "size": 3442616,
+      "md5": "0e55568869cbdade2226d98549402fa8",
+      "size": 3439358,
       "portableMd5": "",
       "portableSize": 0
     },
