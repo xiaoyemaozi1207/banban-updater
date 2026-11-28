@@ -1,6 +1,18 @@
 {
   "versions": [
     {
+      "version": "5.3.4",
+      "versionText": "5.3.4 正式版",
+      "date": "2026-11-28",
+      "notes": "5.3.4 正式版：修复白板 4K 黑边、切白板贴纸残留、重开 PDF 视口丢失、缩放吸附误判、贴纸/笔迹下限；补齐存储配额提示、16MB 预检、文件模式清理清单和宿主异步读文件。",
+      "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.3.4/banban_5.3.4_desktop.zip",
+      "portableDownload": "",
+      "md5": "2fc05bcc5762f8781aa33d152eb79d96",
+      "size": 3455454,
+      "portableMd5": "",
+      "portableSize": 0
+    },
+    {
       "version": "5.3.3",
       "versionText": "5.3.3 正式版",
       "date": "2026-11-18",
@@ -67,14 +79,14 @@
       "size": 1528634
     }
   ],
-  "version": "5.3.3",
-  "versionText": "5.3.3 正式版",
-  "date": "2026-11-18",
-  "notes": "5.3.2.3 Beta 转正式版；修复换文档/关文档贴纸与渲染回调串档、选中贴纸撤销、跨页吸附落盘误报、贴纸跨模块同步；保留面积擦除 A+C、普通橡皮按下即擦、软笔笔锋、长截屏裁剪等全部功能。",
-  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.3.3/banban_5.3.3_desktop.zip",
-  "portableDownload": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.3.3/banban_5.3.3_portable.zip",
-  "md5": "69513bba343b1f27cd7f980ba7db0b75",
-  "size": 3424957,
-  "portableMd5": "14db3fa2be25b130fce6d83dbfa10f77",
-  "portableSize": 1617731
+  "version": "5.3.4",
+  "versionText": "5.3.4 正式版",
+  "date": "2026-11-28",
+  "notes": "5.3.4 正式版：修复白板 4K 黑边、切白板贴纸残留、重开 PDF 视口丢失、缩放吸附误判、贴纸/笔迹下限；补齐存储配额提示、16MB 预检、文件模式清理清单和宿主异步读文件。",
+  "download": "https://gitee.com/xiaoyemaozi/banban-pdf-annotator/releases/download/v5.3.4/banban_5.3.4_desktop.zip",
+  "portableDownload": "",
+  "md5": "2fc05bcc5762f8781aa33d152eb79d96",
+  "size": 3455454,
+  "portableMd5": "",
+  "portableSize": 0
 }
